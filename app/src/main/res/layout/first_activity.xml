@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/women4"
+    android:weightSum="1" >
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button"
+        android:background="@android:drawable/arrow_down_float"
+        android:elevation="0dp"
+        android:layout_marginBottom="11dp"
+        android:layout_above="@+id/button0"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="11dp" />
+
+    <Button
+        android:layout_width="180px"
+        android:layout_height="150px"
+        android:id="@+id/button0"
+        android:background="@drawable/women3"
+        android:layout_marginStart="17dp"
+        android:layout_marginBottom="23dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/button" />
+
+    <TextClock
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textClock2"
+        android:textSize="22sp"
+        android:fontFamily="serif-monospace"
+        android:textStyle="normal|bold"
+        android:textAllCaps="true"
+        tools:textStyle="bold"
+        android:clickable="false"
+        android:background="@android:drawable/alert_light_frame"
+        android:textColor="@android:color/background_dark"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>
+

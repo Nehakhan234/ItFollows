@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">It Follows</string>
+<string name="username">Enter name:</string>
+<string name="phoneno">Enter phone no:</string>
+<string name="view_data">View</string>
+<string name="add_user">save</string>
+
+    <string name="ins"> \r\r <b>Instructions to be followed.</b> \n\n
+         >>><b>click on the star icon to know about the Developer!</b> \n\n
+        *After Installing the app, Grant App permissions to send sms and access Location. \n
+        *Go to <b>start</b>, Enter the name and contact number of people whom you want to notify during emergency. \n
+        *click on <b>save</b> . To verify, <b>view</b> the entered details. \n
+        *If you want to delete any number, enter the name of the person and click on <b>delete</b>.\n
+        *During emergency open the App. It asks If you are safe? Click on <b>NO</b> and continue.\n
+        *click on <b>send sms</b> - to send an emergency message only (if location is off).\n
+        *click on <b>send location</b> - to send an emergency message with location.\n
+        *App successfully sends sms to the registered contacts.\n
+        *It requires minimum balance to send sms and internet connection with location On.
+
+        \n\n
+                 <b><i>We Deserve to be safe ..... \n\n Stay Safe! Stay Happy!</i></b>
+    </string>
+
+    <string name="git"><a href="https://github.com/Nehakhan234"> Github Profile</a>
+    </string>
+    <string name="link"><a href="https://www.linkedin.com/in/neha-khan-7a6b4012b/"> Linkedin Profile</a>
+    </string>
+     <string name="hack"><a href="https://www.hackerearth.com/@neha156"> Hackerearth Profile</a>
+    </string>
+
+</resources>
